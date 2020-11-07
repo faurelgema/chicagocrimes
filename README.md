@@ -958,12 +958,3 @@ The following are suggestions how this project could b efurther developed:
 
 6. Favourite dining preferences could be used to choose the restaurants
 
-
-
-
-# Github
-
-All source for this project is available on Github.
-
-https://github.com/davidcolton/Coursera_Capstone
-
