@@ -4,8 +4,7 @@
 
 
 
-SAN FRANCISCO CRIMES VISUALIZATION
-
+CHICAGO CRIMES VISUALIZATION
 [TOC]
 
 This file, and other associated files, make up my contribution to the final Peer Reviewed Assignment for the Coursera Capstone Project for Applied Data Science Capstone. This was my final module in the [IBM Data Science Professional Certificate](https://www.coursera.org/specializations/ibm-data-science-professional-certificate) programme.
