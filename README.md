@@ -4,7 +4,7 @@
 
 
 
-# Capstone Project - The Battle of Neighborhoods
+SAN FRANCISCO CRIMES VISUALIZATION
 
 [TOC]
 
